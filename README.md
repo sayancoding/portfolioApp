@@ -1,4 +1,4 @@
-# i_am_rich
+# Simple Portfolio
 
 A new Flutter project.
 
